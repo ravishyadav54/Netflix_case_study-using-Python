@@ -6,13 +6,13 @@ This project analyzes Netflix’s content dataset to understand patterns in movi
 The goal of this case study is to perform data cleaning, exploratory data analysis (EDA), and derive business insights that could help Netflix make informed decisions about content production and global expansion.
 The entire analysis was conducted using Python with libraries such as Pandas, NumPy, Matplotlib, and Seaborn.
 
-Business Problem
+Business Problem:
 
 Netflix wants to leverage its content data to identify trends that can guide future content production and market expansion strategies.
 The key objective is to answer:
 How can Netflix use its existing content data to identify patterns and determine what type of shows or movies should be produced in different markets?
 
-Dataset Information
+Dataset Information:
 
 The dataset contains information about Netflix titles including:
 
@@ -28,7 +28,7 @@ Duration,
 Genre (Listed In),
 Description
 
-Project Workflow
+Project Workflow:
 1. Data Cleaning & Preprocessing
 
 The first step involved preparing the dataset for analysis.
@@ -66,7 +66,7 @@ Country vs number of titles,
 Ratings distribution by content type,
 Genre popularity trends
 
-Project Outcome
+Project Outcome:
 
 This project demonstrates how exploratory data analysis can be used to derive meaningful insights from real-world datasets. The findings highlight content trends that can support strategic decisions for streaming platforms like Netflix.
 Several columns such as director, cast, and country contain multiple values, which required preprocessing and restructuring before performing analysis.
